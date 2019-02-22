@@ -4,7 +4,6 @@
 
 Connect-PowerBIServiceAccount
 
-
 $array = @()
 
 $workspace = Get-PowerBIWorkspace 
